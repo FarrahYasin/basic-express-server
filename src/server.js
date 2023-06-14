@@ -43,7 +43,8 @@ function badRequest(req, res, next) {
     req.body = {
       test: 'test'
     }
-      next({message: 'Not A Name'})
+    
+      next({status:500,message: 'Not A Name'})
   }
 
 

@@ -3,16 +3,16 @@
 
 #### deployed link
 
-https://farrahyasin.github.io/basic-express-server/
+[deployed link](https://farrahyasin.github.io/basic-express-server/)
 
 #### Github actions
-
-https://github.com/FarrahYasin/basic-express-server/actions
+[Github actions](https://github.com/FarrahYasin/basic-express-server/actions)
 
 #### pull request
+[PR](https://github.com/FarrahYasin/basic-express-server/pull/3)
 
-https://github.com/FarrahYasin/basic-express-server/pull/3
 
+________________________
 #### Notes from demo and my notes: 
 
 1. we always must do testing to our code
